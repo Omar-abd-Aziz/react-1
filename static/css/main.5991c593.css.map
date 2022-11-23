@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5991c593.css","mappings":"AAAA,UAEI,eAAiB,CADjB,SAEJ","sources":["components/Navbar.css"],"sourcesContent":[".main-div{\r\n    color: red;\r\n    background: black;\r\n}"],"names":[],"sourceRoot":""}
